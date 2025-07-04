@@ -132,3 +132,5 @@ FIRECRAWL_API_KEY=your_firecrawl_api_key
 
 Ce projet combine efficacement l'IA moderne avec une interface utilisateur sophistiquée pour résoudre un besoin concret du marché de l'emploi.
 
+
+
