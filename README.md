@@ -31,15 +31,12 @@ sandbox/cover-letter-generator/
 ```
 
 ## ⚙️ Fonctionnalités principales
-
-### **1. Interface utilisateur moderne**
-- **Design** : Interface colorée avec dégradés et animations CSS
-- **Sidebar personnalisée** : Fond dégradé violet-bleu avec éléments semi-transparents
-- *
-
 https://github.com/user-attachments/assets/923934fa-2e84-4bf1-aa38-347696570eaf
 
 *Responsive** : Adapté mobile/desktop
+### **1. Interface utilisateur moderne**
+- **Design** : Interface colorée avec dégradés et animations CSS
+- **Sidebar personnalisée** : Fond dégradé violet-bleu avec éléments semi-transparents
 - **Thème** : Couleurs harmonieuses avec effets glassmorphism
 
 ### **2. Gestion des fichiers CV**
